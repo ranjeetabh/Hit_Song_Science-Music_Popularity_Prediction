@@ -16,15 +16,22 @@ sample_refined_updated.csv: The final file used for modelling
 
 File_Processing_KNN, File_Processing_LogisticRegression, File_Processing_NaiveBayes, File_Processing_Linear_Regression, File_Processing_Neural_Network, File_Processing_SVM, File_Processing_DecisionTrees_RandomForest: Notebooks detailing different steps taken for implementing supervised machine learning algorithms on the input dataset. 
 
-Classification algorithm's	Overall Model Accuracy (Mean Score Of 10-Fold Cross Validation)
+Classification algorithm's	Overall Model Accuracy (Quick overview):
 
 -> XG-Boost: 	~ 71%
+
 -> Random Forest:	~ 70%
+
 -> Neural Network (Multilayer Perceptron):	~ 66%
+
 -> Logistic Regression: ~ 65%
+
 -> Support Vector Machines: ~ 64%
+
 -> Naïve Bayes:	~ 63%
+
 -> K-Nearest Neighbors:	~ 60%
+
 -> Decision Tree:	~ 57%
 
 Linear regression metrics:
