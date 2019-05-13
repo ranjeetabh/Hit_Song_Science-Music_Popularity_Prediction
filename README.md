@@ -8,7 +8,7 @@ Billboards hot-100 remains one of the most recognized “music industry standard
 
 The files uploaded in this directory are as follows:
 
-** Hit_Song_Science_Final_Merged_Report: 
+** Hit_Song_Science_Final_Merged_Report **: 
 
 Exhaustive report for the entire project consisting of finer details.
 
