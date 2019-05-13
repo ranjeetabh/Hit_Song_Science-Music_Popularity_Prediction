@@ -8,21 +8,13 @@ Billboards hot-100 remains one of the most recognized “music industry standard
 
 The files uploaded in this directory are as follows:
 
-**Hit_Song_Science_Final_Merged_Report**: 
+**Hit_Song_Science_Final_Merged_Report**: Exhaustive report for the entire project consisting of finer details.
 
-Exhaustive report for the entire project consisting of finer details.
+**Final_File_Creation, Final_File_Addition, billboard, Final_File_Addition_New, File_Creation_Billboard**: Notebooks detailing different processes of data collection, wrangling, merging and cleaning 
 
-**Final_File_Creation, Final_File_Addition, billboard, Final_File_Addition_New, File_Creation_Billboard**: 
+**sample_refined_updated.csv**: The final input file used for modelling
 
-Notebooks detailing different processes of data collection, wrangling, merging and cleaning 
-
-**sample_refined_updated.csv**: 
-
-The final file used for modelling
-
-**File_Processing_KNN, File_Processing_LogisticRegression, File_Processing_NaiveBayes, File_Processing_Linear_Regression, File_Processing_Neural_Network, File_Processing_SVM, File_Processing_DecisionTrees_RandomForest**: 
-
-Notebooks detailing different steps taken for implementing supervised machine learning algorithms on the input dataset. 
+**File_Processing_KNN, File_Processing_LogisticRegression, File_Processing_NaiveBayes, File_Processing_Linear_Regression, File_Processing_Neural_Network, File_Processing_SVM, File_Processing_DecisionTrees_RandomForest**: Notebooks detailing different steps taken for implementing supervised machine learning algorithms on the input dataset. 
 
 **Classification algorithm's	Overall Model Accuracy (Quick overview)**:
 
